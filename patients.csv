@@ -1,0 +1,4 @@
+id,name,cured,room
+1,Claire,true,1
+2,Olivier,false,1
+3,Alex,false,2
